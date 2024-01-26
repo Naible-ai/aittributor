@@ -3,7 +3,7 @@
 # AiTTRIBUTOR
 AI meets MITRE ATT&amp;CK, turning indicators into foresight and adversaries into open books.
 
-https://chat.openai.com/g/g-boFRJB5SO-aittributor
+[Naible AiTTRIBUTOR](https://chat.openai.com/g/g-boFRJB5SO-aittributor)
 
 ## Short Description:
 Enable the unmasking of cyber threats — AI augmentation meets the MITRE ATT&CK Framework.  AiTTRIBUTOR turns indicators into foresight and adversaries into open books.
