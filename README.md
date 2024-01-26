@@ -23,3 +23,4 @@ Any organization that conducts incident response, threat hunting, and/or intelli
 ## Revenue Streams:
 1. Subscription fees - a subcription-based model where organizations pay monthly/quarterly/yearly to access an expert-curated attribution engine to significantly cut down the time it takes to remediate a cyber attack.
 2. Custom licensing - a service-based approach to an expertly built, highly customized version of AiTTRIBUTOR
+3. Custom training - a service-based custom training program that enables customers to use AiTTRIBUTOR at an expert level
